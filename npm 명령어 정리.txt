@@ -1,0 +1,36 @@
+NPM
+- nodejs 꺼
+- 자바스크립트 패키지(모듈) 관리자
+- 명령어
+  - npm init
+    - Nodejs 패키지를 생성하는 도구
+    - 앞으로 이 디렉토리를 nodejs 디렉토리로 쓰겠다.
+
+  - npm run <script 이름>
+    - package.json 에 작성된 scripts 를 실행하는 명령어
+  
+  - npm install (npm i) <package 이름>
+    - 현재 디렉토리에 패키지를 설치하겠다.
+    - node_modules 에 패키지가 설치됨
+    - package 이름을 작성하지 않으면, package.json 에 적힌 모든 모듈들을 설치
+  
+  - npm install -g <package 이름>
+    - g == global
+    - 전역적으로 관리하는 디렉토리에 패키지를 설치하겠다.
+  
+  - npm root
+    - 현재 프로젝트가 참고하고 있는 패키지 목록(node_modules) 위치 확인
+  
+  - npm root -g
+    - 전역 프로젝트 패키지 위치 확인
+  
+  - npm list
+    - 현재 프로젝트에 설치된 패키지 목록 확인
+  
+  - npm audit
+    - 보안 및 의존성 문제를 일차적으로 해결해주는 도구
+    - 장점: 빠르게 의존성 문제를 해결할 수 있다.
+	-> 가벼운 프로젝트에서는 사용해도 무리 X
+    - 단점: 자동으로 해준다 --> 우리 마음대로 안될수있다.
+	-> 모듈들이 많을 경우, 사용하면 큰일날수도 있다.
+
