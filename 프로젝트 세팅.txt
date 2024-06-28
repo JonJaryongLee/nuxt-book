@@ -1,0 +1,23 @@
+2024.06.28 최종 PJT 용 프로젝트 세팅 파일입니다.
+아래 명령어와 링크 참고하셔서 프로젝트 생성해주시면 됩니다.
+
+1. 프로젝트 생성
+- 명령어: npx nuxi@latest init article-pjt
+
+2. tailwind 설치
+- 명령어: npx nuxi@latest module add tailwindcss
+- 링크: https://tailwindcss.nuxtjs.org/getting-started/installation
+
+3. nuxt/image 설치
+- 명령어: npx nuxi@latest module add image
+- 링크: https://image.nuxt.com/get-started/installation
+
+4. nuxt/google-font 설치
+- 명령어: npx nuxi@latest module add google-fonts
+- 링크: https://google-fonts.nuxtjs.org/getting-started/setup
+
+
+
+
+
+
