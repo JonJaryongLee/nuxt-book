@@ -1,0 +1,7 @@
+json-server 를 실행 후 코드를 실행합니다. 명령어 실행 순서는 아래와 같습니다.
+
+터미널1(json server 실행)
+npx json-server --watch db.json --port 9999
+
+터미널2(프론트 실행)
+npm run dev

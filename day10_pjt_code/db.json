@@ -1,0 +1,44 @@
+{
+  "articles": [
+    {
+      "id": "1",
+      "title": "첫 번째 게시글",
+      "content": "첫 번째 게시글 내용"
+    },
+    {
+      "id": "2",
+      "title": "두 번째 게시글",
+      "content": "두 번째 게시글 내용"
+    },
+    {
+      "id": "1279",
+      "title": "test",
+      "content": "test"
+    },
+    {
+      "id": "1028",
+      "title": "asdf",
+      "content": "sdafasdf"
+    },
+    {
+      "id": "bf31",
+      "title": "test11",
+      "content": "test11"
+    },
+    {
+      "id": "7cc2",
+      "title": "asdf",
+      "content": "asdfsdaf"
+    },
+    {
+      "id": "b0e7",
+      "title": "asdfasdfasd",
+      "content": "fasdfasf"
+    },
+    {
+      "id": "0c5a",
+      "title": "지금 생성된 글",
+      "content": "테스트"
+    }
+  ]
+}
